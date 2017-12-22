@@ -1,0 +1,132 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: #f0f1f3;
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+	
+	margin-top: 80px;
+}
+a{
+	text-decoration: none;
+}
+.left{
+	margin-left: 2%;
+	width: 20%;
+	float: left;
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+	text-align: center;
+	background-color: #fff;
+	padding-bottom: 20px;
+	border-radius: 10px;
+}
+#mission{
+	font-weight: bold;
+}
+.right{
+	width: 70%;
+	float: right;
+	border-top: 6px solid #213950;
+	background-color: #fff;
+	padding: 0 2%;
+	font-family:'Lato', sans-serif;
+	font: inherit;
+	line-height: 22px;
+}
+.main-div>div{
+	
+}
+.website{
+	color: #fff;
+	background-color:#2D4C6B;
+	padding: 10px 5px;
+	border-radius: 2px;
+}
+.website:hover{
+	background-color: #213950;
+}
+.blog div{
+	margin-top: 5px;
+}
+.blogTry{
+	text-align: center;
+	box-sizing: border-box;
+	margin-top: -35px !important;
+	margin-bottom: 20px;
+	width: 60px;
+	height: 60px;
+	margin-left: 47%;
+	background-color: #213950;
+	border-radius: 50%; 
+	padding-top: 8px;
+	padding-left: 4px;
+}
+.blogTry img{
+	width: 40px;
+	height: 40px;
+}
+.reviews{
+	font-family:'Lato', sans-serif;
+	line-height: 35px;
+}
+.starOuter{
+	background-color: #eaeaea;
+	width: 50px;
+	height: 40px;
+}
+.starInner{
+	background-color: #0CAA41; 
+	width: 100%;
+	text-align: center;
+	height: 40px;
+	padding: 7px 5px;
+}
+.innerRating{
+	padding-left: 20px;
+}
+.pleft{
+	width: 30%;
+	float: left;
+
+}
+.pright{
+	width: 70%;
+	float: right;
+	height: 500px;
+	line-height: 35px;
+	font-family:'Lato', sans-serif;
+}
+.pright table{
+	border-collapse: collapse;
+    width: 100%;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+.tableD{
+	color: #CB660C
+}
+
+
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+.outerData{
+	width:100%; 
+	background-color: #ddd;
+	height: 20px;
+	border-bottom-right-radius:6px ;
+	border-top-left-radius: 6px;
+}
+.innerData{
+	
+	background-color: #234261; 
+	height:20px;
+}
+
